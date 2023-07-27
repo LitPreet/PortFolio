@@ -41,7 +41,7 @@ export const ProjectList = [
         "Created Youtube using react and firebase that provides authentication , like and subscribe videos features ",
       tech_stack: "Reactjs, Css, Firebase",
       github_url: "https://github.com/LitPreet/Redesign_YOUTUBE",
-      demo_url: "https://redesign-youtube.vercel.app/",
+      demo_url: "https://redesign-youtube-r92wbo2sc-litpreet.vercel.app/",
     },
   ];
   
